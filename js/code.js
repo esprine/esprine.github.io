@@ -79,7 +79,6 @@
 		$('#header').load("div/header.html");
 		$('#intro').load("div/intro.html");
 		$('#skill').load("div/skill.html");
-//		$('#projects').load("div/projects.html");
 	});
 
 	$(window).scroll(function() {
